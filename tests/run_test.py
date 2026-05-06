@@ -1,4 +1,3 @@
-
 from run import division, informations
 
 def test_division():
